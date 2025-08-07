@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="profile_name">Addinda Ayu Arsyah</string>
+    <string name="profile_email">addindaarsyah@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+    <string name="lorem_ipsum">"Detail Nama Masakan\nResepnya :\n- \n- \n- "</string>
+    <string name="search">Cari Resep Masakanmu...</string>
+</resources>
